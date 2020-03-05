@@ -6,7 +6,7 @@
 #define Socket2 D6
 #define Socket3 D7
 #define Socket4 D8
-char auth[] = "9c8b83ffe23c";/****秘钥****/
+char auth[] = "***********";/****秘钥****/
 /*char ssid[] = "MI";
 char pswd[] = "asdfghjkl";*/
 char Port;
