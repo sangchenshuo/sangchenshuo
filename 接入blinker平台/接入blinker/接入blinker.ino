@@ -3,7 +3,7 @@
 
 #include <Blinker.h>
 /*******此处修改*******/
-char auth[] = "7f9a3730be92";//秘钥
+char auth[] = "**********";//秘钥
 char ssid[] = "MI";//WiFi名称
 char pswd[] = "asdfghjkl";//WiFi密码
 
